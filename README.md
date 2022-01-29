@@ -6,12 +6,9 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on University stuff - Java, JS, TS & React
-- 🌱 I’m currently learning Data Science & Python
-- 👯 I’m looking to collaborate on Big data things :)
-- 💬 Ask me about anything concerning Java, Spring Boot, and Frontend development
-- 📫 How to reach me: mathis.neunzig@gmail.com
-- ⚡ Fun fact: \(OwO)/
+- 🔭 Dualer Student Wirtschaftsinformatik: Software Engineering @SAP
+- ⚡ Focus: Java (Spring Boot), JS/TS/React, Datenbanken
+- 📫 mathis.neunzig@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrBackmischung&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
