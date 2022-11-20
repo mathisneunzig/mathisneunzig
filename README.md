@@ -1,4 +1,6 @@
-### Hi there 👋
+# DrBackmischung 
+
+## Stats
 
 <!--
 **DrBackmischung/DrBackmischung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +15,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrBackmischung&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-Current Projects:
+## Current Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrBackmischung&repo=Nachhilfe-Frontend)](https://github.com/DrBackmischung/Nachhilfe-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrBackmischung&repo=Nachhilfe-Gateway)](https://github.com/DrBackmischung/Nachhilfe-Gateway)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrBackmischung&repo=Nachhilfe-UserService)](https://github.com/DrBackmischung/Nachhilfe-UserService)
@@ -24,5 +27,5 @@ Current Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrBackmischung&repo=Nachhilfe-TransportationService)](https://github.com/DrBackmischung/Nachhilfe-TransportationService)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrBackmischung&repo=Nachhilfe-Dokumentation)](https://github.com/DrBackmischung/Nachhilfe-Dokumentation)
 
-
+## Trophies
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=DrBackmischung&row=1)](https://github.com/ryo-ma/github-profile-trophy)
