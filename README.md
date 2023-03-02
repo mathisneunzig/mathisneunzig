@@ -1,5 +1,6 @@
 # DrBackmischung 
 
+Mathis Neunzig - 22 years old - Software Engineer with a <3
 - 🔭 Dualer Student Wirtschaftsinformatik: Software Engineering @SAP
 - 💻 Soon to be ABAP developer @SAP ABAP Platform
 - ⚡ Focus: ABAP, Java (Spring Boot), JS/TS/React/Angular with SASS, Database Technology
