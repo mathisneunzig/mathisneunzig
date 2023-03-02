@@ -6,7 +6,6 @@ Mathis Neunzig - 22 years old - Software Engineer with a <3
 - ⚡ Focus: ABAP, Java (Spring Boot), JS/TS/React/Angular with SASS, Database Technology
 - 💻 Currently Learning/Developing: SAP & university stuff (ABAP & Machine Learning)
 - 📫 mathis.neunzig@gmail.com
-- <img src="https://komarev.com/ghpvc/?username=drbackmischung&label=Profile%20views&color=0e75b6&style=flat" alt="drbackmischung" />
 
 ## Stats
 
@@ -16,6 +15,8 @@ Mathis Neunzig - 22 years old - Software Engineer with a <3
 Here are some ideas to get you started:
 
 -->
+Profile views since March 2023
+<img src="https://komarev.com/ghpvc/?username=drbackmischung&label=Profile%20views&color=0e75b6&style=flat" alt="drbackmischung" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrBackmischung&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
