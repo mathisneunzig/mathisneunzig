@@ -2,9 +2,9 @@
 
 Mathis Neunzig - 22 years old - Software Engineer with a <3 for cats
 - 🔭 Dualer Student Wirtschaftsinformatik: Software Engineering @SAP
-- 💻 Soon to be ABAP developer @SAP ABAP Platform
-- ⚡ Focus: ABAP, Java (Spring Boot), JS/TS/React/Angular with SASS, Database Technology
-- 💻 Currently Learning/Developing: SAP & university stuff (ABAP & Machine Learning)
+- 💻 ABAP developer @SAP ABAP Platform
+- ⚡ Focus: ABAP, CDS & Database Technology - Java (SpringBoot) & TS/React in free time
+- 💻 Currently Learning/Developing: SAP stuff (ABAP & Machine Learning)
 - 📫 mathis.neunzig@gmail.com
 
 ## Stats
