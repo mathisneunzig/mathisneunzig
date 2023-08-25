@@ -1,10 +1,12 @@
 # DrBackmischung 
 
 Mathis Neunzig - 22 years old - Software Engineer with a <3 for cats
+Welcome to my University stuff Github Page!
+Some facts about me:
 - 🔭 Dualer Student Wirtschaftsinformatik: Software Engineering @SAP
 - 💻 ABAP developer @SAP ABAP Platform
 - ⚡ Focus: ABAP, CDS & Database Technology - Java (SpringBoot) & TS/React in free time
-- 💻 Currently Learning/Developing: SAP stuff (ABAP & Machine Learning)
+- 💻 Currently Learning/Developing: ABAP & UI5
 - 📫 mathis.neunzig@gmail.com
 
 ## Stats
