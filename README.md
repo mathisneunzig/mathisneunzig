@@ -9,6 +9,7 @@ Some facts about me:
 - 🔭 B. Sc. Wirtschaftsinformatik (Business Information Technology)
 - 🎓 currently becomming a M. Sc. Data Science
 - 💻 ABAP developer @SAP ABAP Platform
+- 📚 Teaching Database Technology & ABAP @Duale Hochschule Baden-Württemberg
 - ⚡ Focus: ABAP, CDS & Database Technology - Java (SpringBoot) & TS/React in free time
 - 💻 Currently Learning/Developing: ABAP, UI5 and modern database technologies
 - 📫 mathis.neunzig@gmail.com
