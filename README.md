@@ -6,10 +6,11 @@ Welcome to my Github Page!
 
 Some facts about me:
 
-- 🔭 Dualer Student Wirtschaftsinformatik: Software Engineering @SAP
+- 🔭 B. Sc. Wirtschaftsinformatik (Business Information Technology)
+- 🎓 currently becomming a M. Sc. Data Science
 - 💻 ABAP developer @SAP ABAP Platform
 - ⚡ Focus: ABAP, CDS & Database Technology - Java (SpringBoot) & TS/React in free time
-- 💻 Currently Learning/Developing: ABAP & UI5
+- 💻 Currently Learning/Developing: ABAP, UI5 and modern database technologies
 - 📫 mathis.neunzig@gmail.com
 
 ## Stats
