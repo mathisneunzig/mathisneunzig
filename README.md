@@ -9,7 +9,7 @@ Some facts about me:
 - 🔭 B. Sc. Wirtschaftsinformatik (Business Information Technology) @Duale Hochschule Baden-Württemberg Mannheim
 - 🎓 Currently studying M. Sc. Data Science @FernUni Hagen
 - 💻 ABAP developer & advocate @SAP ABAP Platform
-- 📚 Teaching Database Technology & ABAP @Duale Hochschule Baden-Württemberg
+- 📚 Teaching Software Engineering, Database Technology & ABAP @Duale Hochschule Baden-Württemberg
 - 📫 mathis.neunzig@gmail.com
 
 ## Stats
