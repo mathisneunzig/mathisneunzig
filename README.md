@@ -4,29 +4,25 @@ Mathis Neunzig - 23 years old - Software Engineer with a <3 for cats
 
 Welcome to my Github Page!
 
-Some facts about me:
+### Education 🎓
+- 2020-2023: B. Sc. Wirtschaftsinformatik (Business Information Technology) @Duale Hochschule Baden-Württemberg Mannheim
+- since 2023: M. Sc. Data Science @FernUni Hagen
 
-- 🔭 2020-2023: B. Sc. Wirtschaftsinformatik (Business Information Technology) @Duale Hochschule Baden-Württemberg Mannheim
-- 🎓 since 2023: Currently studying M. Sc. Data Science @FernUni Hagen
-  
-- 💻 2020-2023: Vocational Traning Student @SAP with a focus on Full-Stack- and ABAP-Development
-- 💻 since 2023: ABAP developer & advocate @SAP ABAP Platform
-- 📚 since 2024: Teaching Software Engineering, Database Technology & ABAP @Duale Hochschule Baden-Württemberg
-- 📫 mathis.neunzig@gmail.com
+### Carreer 💻
+- 2020-2023: Vocational Traning Student @SAP with a focus on Full-Stack- and ABAP-Development
+- since 2023: ABAP developer & advocate @SAP ABAP Platform
+- since 2024: Teaching Software Engineering, Database Technology & ABAP @Duale Hochschule Baden-Württemberg
 
-## Stats
+### Contact 📫
+- mathis.neunzig@gmail.com
 
-<!--
-**DrBackmischung/DrBackmischung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats
 
-Here are some ideas to get you started:
-
--->
 Profile views since March 2023
 
 <img src="https://komarev.com/ghpvc/?username=drbackmischung&label=Profile%20views&color=0e75b6&style=flat" alt="drbackmischung" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrBackmischung&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## Trophies
+### Trophies
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=DrBackmischung&row=1)](https://github.com/ryo-ma/github-profile-trophy)
