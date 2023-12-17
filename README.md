@@ -5,7 +5,7 @@ Mathis Neunzig - 23 years old - Software Engineer with a <3 for cats
 Welcome to my Github Page!
 
 ### Education 🎓
-- 2020-2023: B. Sc. Wirtschaftsinformatik (Business Information Technology) @Duale Hochschule Baden-Württemberg Mannheim
+- 2020-2023: B. Sc. Wirtschaftsinformatik (Business & IT) @Duale Hochschule Baden-Württemberg Mannheim
 - since 2023: M. Sc. Data Science @FernUni Hagen
 
 ### Carreer 💻
