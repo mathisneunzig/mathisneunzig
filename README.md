@@ -6,10 +6,12 @@ Welcome to my Github Page!
 
 Some facts about me:
 
-- 🔭 B. Sc. Wirtschaftsinformatik (Business Information Technology) @Duale Hochschule Baden-Württemberg Mannheim
-- 🎓 Currently studying M. Sc. Data Science @FernUni Hagen
-- 💻 ABAP developer & advocate @SAP ABAP Platform
-- 📚 Teaching Software Engineering, Database Technology & ABAP @Duale Hochschule Baden-Württemberg
+- 🔭 2020-2023: B. Sc. Wirtschaftsinformatik (Business Information Technology) @Duale Hochschule Baden-Württemberg Mannheim
+- 🎓 since 2023: Currently studying M. Sc. Data Science @FernUni Hagen
+  
+- 💻 2020-2023: Vocational Traning Student @SAP with a focus on Full-Stack- and ABAP-Development
+- 💻 since 2023: ABAP developer & advocate @SAP ABAP Platform
+- 📚 since 2024: Teaching Software Engineering, Database Technology & ABAP @Duale Hochschule Baden-Württemberg
 - 📫 mathis.neunzig@gmail.com
 
 ## Stats
