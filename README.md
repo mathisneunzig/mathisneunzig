@@ -11,8 +11,9 @@ Welcome to my Github Page!
 ### Carreer 💻
 - 2020-2023: Vocational Traning Student @SAP with a focus on Full-Stack- and ABAP-Development
 - since 2023: ABAP developer & advocate @SAP ABAP Platform
-- since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Mannheim
-- since 2024: Teaching Database Technology & ABAP @Duale Hochschule Baden-Württemberg Mosbach
+- since 2024: Teaching Core Principles of Software Engineering & ABAP @Duale Hochschule Baden-Württemberg Mannheim
+- since 2024: Teaching Core Principles of Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
+- since 2024: Teaching Database Technology, SAP HANA & ABAP @Duale Hochschule Baden-Württemberg Mosbach
 
 ### Contact 📫
 - mathis.neunzig@gmail.com
