@@ -28,7 +28,13 @@ Please contact me via mail: mathis.neunzig@gmail.com
 Every class has a repository for all class-related content and an additional repository für the exam (or project in case there is no written exam). Just look for your course id in my repos.
 
 #### Where can I find more information about your classes?
-See this file: <insert>
+See this table:
+
+| **University / University of Applied Sciences** | Mayor | Module | Class name | Language | Topics | Status |
+|---|---|---|---|---|---|---|
+| DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | German | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟢 Active |
+| DHBW Mosbach | New Study Computer Science | Database Technology | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟡 In planning |
+| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟡 In planning |
 
 ### Stats
 Profile views since March 2023
