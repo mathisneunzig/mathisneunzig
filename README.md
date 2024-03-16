@@ -17,10 +17,15 @@ Welcome to my Github Page!
 - since 2024: Teaching Database Technology, SAP HANA & ABAP @Duale Hochschule Baden-Württemberg Mosbach
 
 ### Contact 📫
-- Email ✉️: mathis.neunzig@gmail.com
+- Email: mathis.neunzig@gmail.com
+- LinkedIn: Mathis Neunzig
+
+### FAQ
+####How can I contact you?
+Mail: mathis.neunzig@gmail.com
+
 
 ### Stats
-
 Profile views since March 2023
 
 <img src="https://komarev.com/ghpvc/?username=drbackmischung&label=Profile%20views&color=0e75b6&style=flat" alt="drbackmischung" />
