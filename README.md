@@ -17,7 +17,7 @@ Welcome to my Github Page!
 - since 2024: Teaching Database Technology, SAP HANA & ABAP @Duale Hochschule Baden-Württemberg Mosbach
 
 ### Contact 📫
-- mathis.neunzig@gmail.com
+- Email ✉️: mathis.neunzig@gmail.com
 
 ### Stats
 
