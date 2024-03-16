@@ -10,8 +10,8 @@ Welcome to my Github Page!
 
 ### Carreer 💻
 - 2020-2023: Vocational Traning Student @SAP with a focus on Full-Stack- and ABAP-Development
-- since 2023: ABAP developer @SAP ABAP Platform
-- since 2023: ABAP Campus Recruiting @SAP ABAP Platform
+- since 2023: ABAP Developer @SAP ABAP Platform
+- since 2023: ABAP Campus Recruiting & Student Engagement @SAP ABAP Platform
 - since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Mannheim
 - since 2024: Teaching Core Principles of Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
 - since 2024: Teaching Database Technology, SAP HANA & ABAP @Duale Hochschule Baden-Württemberg Mosbach
