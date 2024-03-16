@@ -21,9 +21,14 @@ Welcome to my Github Page!
 - LinkedIn: Mathis Neunzig
 
 ### FAQ
-####How can I contact you?
-Mail: mathis.neunzig@gmail.com
+#### How can I contact you?
+Please contact me via mail: mathis.neunzig@gmail.com
 
+#### I am a student of yours. Where can I find information about the class?
+Every class has a repository for all class-related content and an additional repository für the exam (or project in case there is no written exam). Just look for your course id in my repos.
+
+#### Where can I find more information about your classes?
+See this file: <insert>
 
 ### Stats
 Profile views since March 2023
