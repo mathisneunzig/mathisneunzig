@@ -13,7 +13,6 @@ Welcome to my Github Page!
 - since 2023: ABAP Developer @SAP ABAP Platform
 - since 2023: ABAP Campus Recruiting & Student Engagement @SAP ABAP Platform
 - since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Mannheim
-- since 2024: Teaching Core Principles of Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
 - since 2024: Teaching Database Technology, SAP HANA & ABAP @Duale Hochschule Baden-Württemberg Mosbach
 
 ### Contact 📫
@@ -33,8 +32,9 @@ See this table:
 | **University / University of Applied Sciences** | Mayor | Module | Class name | Language | Topics | Status |
 |---|---|---|---|---|---|---|
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | German | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟢 Active |
-| DHBW Mosbach | New Study Computer Science | Database Technology | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟡 In planning |
-| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟡 In planning |
+| DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Software Architekturen (Software Architecture) | German | Architecture pattern, MVC, MVVM, Monolith, Microservices, REST APIs, Java & SpringBoot, JavaScript & express, ABAP & ABAP RAP | 🟡 In preperation |
+| DHBW Mosbach | New Study Computer Science | Database Technology | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟠 In planning |
+| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟠 In planning |
 
 ### Stats
 Profile views since March 2023
