@@ -34,8 +34,8 @@ See this table:
 |---|---|---|---|---|---|---|
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | German | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Software Architekturen (Software Architecture) | German | Architecture pattern, MVC, MVVM, Monolith, Microservices, REST APIs, Java & SpringBoot, JavaScript & express, ABAP & ABAP RAP | 🟡 In preperation |
-| DHBW Mosbach | New Study Computer Science | Database Technology | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟡 In preperation |
-| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟡 In preperation |
+| DHBW Mosbach | New Study Computer Science | Database Technology | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟢 Active |
+| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟢 Active |
 
 ### Stats
 Profile views since March 2023
