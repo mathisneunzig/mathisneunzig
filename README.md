@@ -12,7 +12,7 @@ Welcome to my Github Page!
 - 2020-2023: Vocational Traning Student @SAP with a focus on Full-Stack- and ABAP-Development
 - since 2023: ABAP Developer @SAP ABAP Platform
 - since 2023: ABAP Campus Recruiting & Student Engagement @SAP ABAP Platform
-- since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Mannheim
+- since 2024: Teaching Software Engineering & Advanced System Development @Duale Hochschule Baden-Württemberg Mannheim
 - since 2024: Teaching Database Technology @Duale Hochschule Baden-Württemberg Mosbach
 - since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
 
@@ -34,8 +34,10 @@ See this table:
 |---|---|---|---|---|---|---|
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | German | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Software Architekturen (Software Architecture) | German | Architecture pattern, MVC, MVVM, Monolith, Microservices, REST APIs, Java & SpringBoot, JavaScript & express, ABAP & ABAP RAP | 🟡 In preperation |
+| DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung | Fortgeschrittene Systementwicklung I (Advanced System Development I) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot | 🟡 In preperation |
+| DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung | Fortgeschrittene Systementwicklung II (Advanced System Development II) | German | Webframeworks (React, AJAX, Vue.js, Angular, etc.), Client-Server Communication (REST, GraphQL, JSON, etc.), Software Ergonimics, Middleware | 🟡 In preperation |
 | DHBW Mosbach | New Study Computer Science | Database Technology | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟢 Active |
-| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟢 Active |
+| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II | Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟣 Inactive |
 
 ### Stats
 Profile views since March 2023
