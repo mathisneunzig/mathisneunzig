@@ -31,7 +31,7 @@ Every class has a repository for all class-related content and an additional rep
 See this table:
 
 | **University / University of Applied Sciences** | Mayor | Module | Language | Topics | Status |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | German | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
 | DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Software Architekturen (Software Architecture) | German | Architecture pattern, MVC, MVVM, Monolith, Microservices, REST APIs, Java & SpringBoot, JavaScript & express, ABAP & ABAP RAP | 🟡 In preperation |
 | DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung I (Advanced System Development I) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot | 🟡 In preperation |
