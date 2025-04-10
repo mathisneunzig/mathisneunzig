@@ -37,7 +37,7 @@ See this table:
 | DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung I (Advanced System Development I) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot | 🟢 Active |
 | DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung II (Advanced System Development II) | German | Webframeworks (React, AJAX, Vue.js, Angular, etc.), Client-Server Communication (REST, GraphQL, JSON, etc.), Software Ergonimics, Middleware | 🟢 Active |
 | DHBW Mosbach | New Study Computer Science | Database Technology | English | Relational Algebra, SQL, Database Design, ABAP, SAP HANA | 🟢 Active |
-| DHBW Mosbach | New Study Computer Science | Database Technology (Lab) | English | Data Modeling and SQL Implementation | 🟡 In preperation |
+| DHBW Mosbach | New Study Computer Science | Database Technology (Lab) | English | Data Modeling and SQL Implementation | 🟢 Active |
 | DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟣 Inactive |
 
 ### Stats
