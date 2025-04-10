@@ -5,6 +5,7 @@ Mathis Neunzig - 24 years old - Software Engineer with a <3 for cats
 Welcome to my Github Page!
 
 ### Education 🎓
+- 2011-2019: High-School-Diploma @Cäcilienschule Oldenburg
 - 2020-2023: B. Sc. Wirtschaftsinformatik (Business & IT) @Duale Hochschule Baden-Württemberg Mannheim
 - since 2023: M. Sc. Data Science @FernUni Hagen
 
@@ -14,7 +15,7 @@ Welcome to my Github Page!
 - since 2023: ABAP Campus Recruiting & Student Engagement @SAP ABAP Platform
 - since 2024: Teaching Software Engineering & Advanced System Development @Duale Hochschule Baden-Württemberg Mannheim
 - since 2024: Teaching Database Technology @Duale Hochschule Baden-Württemberg Mosbach
-- since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
+- 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
 
 ### Contact 📫
 - Email: mathis.neunzig@gmail.com
