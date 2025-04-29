@@ -18,12 +18,11 @@ Welcome to my Github Page!
 - 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
 
 ### Contact 📫
-- Email: mathis.neunzig@gmail.com
 - LinkedIn: Mathis Neunzig
 
 ### FAQ
 #### How can I contact you?
-Please contact me via mail: mathis.neunzig@gmail.com
+Please contact me on LinkedIn. If you have my number or email, feel free to contact me there!
 
 #### I am a student of yours. Where can I find information about the class?
 Every class has a repository for all class-related content and an additional repository für the exam (or project in case there is no written exam). Just look for your course id in my repos.
