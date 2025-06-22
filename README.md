@@ -15,7 +15,7 @@ Welcome to my Github Page!
 - since 2023: ABAP Campus Recruiting & Student Engagement @SAP ABAP Platform
 - since 2024: Teaching Software Engineering & Advanced System Development @Duale Hochschule Baden-Württemberg Mannheim
 - since 2024: Teaching Database Technology @Duale Hochschule Baden-Württemberg Mosbach
-- 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
+- since 2024: Teaching Software Engineering @Duale Hochschule Baden-Württemberg Karlsruhe
 
 ### Contact 📫
 - LinkedIn: Mathis Neunzig
