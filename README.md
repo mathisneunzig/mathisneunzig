@@ -41,8 +41,4 @@ See this table:
 | DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟣 Inactive |
 
 ### Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisneunzig&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
-
-### Trophies
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=mathisneunzig&row=1)](https://github.com/ryo-ma/github-profile-trophy)
