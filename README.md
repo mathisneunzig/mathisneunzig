@@ -1,6 +1,6 @@
 # Mathis Neunzig
 
-Mathis Neunzig - 24 years old - Software Engineer with a <3 for cats
+Mathis Neunzig - 25 years old - Software Engineer with a <3 for cats
 
 Welcome to my Github Page!
 
