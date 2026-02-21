@@ -31,7 +31,7 @@ Every class has a repository for all class-related content and an additional rep
 See this table:
 
 | Module | Language | Topics | Status |
-|---|---|---|---|---|---|
+|---|---|---|---|
 | *Software Engineering II* | German & English | Software Lifecycle, Requirements Engineering, Software Architectures, APIs, Full-Stack-APIs, Design Patterns, Clean Code, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
 | *Fortgeschrittene Systementwicklung* (Advanced System Development) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot, Software Engineering, Software Lifecycle, Webframeworks, Client-Server Communication, Software Ergonimics, Middleware | 🟢 Active |
 | *Databases I* | English | Relational Algebra, SQL, Database Design, Relational Databases, History of Databases, Security, Concurrency | 🟢 Active |
