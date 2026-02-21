@@ -32,13 +32,25 @@ See this table:
 
 | **University / University of Applied Sciences** | Mayor | Module | Language | Topics | Status |
 |---|---|---|---|---|---|
-| DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | German | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
-| DHBW Mannheim | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Software Architekturen (Software Architecture) | German | Architecture pattern, MVC, MVVM, Monolith, Microservices, REST APIs, Java & SpringBoot, JavaScript & express, ABAP & ABAP RAP | 🟢 Active |
-| DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung I (Advanced System Development I) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot | 🟢 Active |
-| DHBW Mannheim | Wirtschaftsinformatik: Application Management (Business Information Technology: Application Management) | Fortgeschrittene Systementwicklung II (Advanced System Development II) | German | Webframeworks (React, AJAX, Vue.js, Angular, etc.), Client-Server Communication (REST, GraphQL, JSON, etc.), Software Ergonimics, Middleware | 🟢 Active |
-| DHBW Mosbach | New Study Computer Science | Databases I | English | Relational Algebra, SQL, Database Design, Relational Databases, History of Databases, Security, Concurrency | 🟢 Active |
-| DHBW Mosbach | New Study Computer Science | Databases II | English | Data Warehouse, NoSQL, Big Data | 🟡 In Preperation |
-| DHBW Karlsruhe | Wirtschaftsinformatik: Software Engineering (Business Information Technology: Software Engineering) | Software Engineering II: Methoden und Konzepte des Software Engineering (Core Principles of Software Engineering) | English | Software Lifecycle, Requirements Engineering, Full-Stack-APIs, Design Patterns, Testing, IT-Management, ABAP | 🟢 Active |
+| Software Engineering II | German & English | Software Lifecycle, Requirements Engineering, Software Architectures, APIs, Full-Stack-APIs, Design Patterns, Clean Code, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
+| Fortgeschrittene Systementwicklung (Advanced System Development) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot, Software Engineering, Software Lifecycle, Webframeworks, Client-Server Communication, Software Ergonimics, Middleware | 🟢 Active |
+| Databases I | English | Relational Algebra, SQL, Database Design, Relational Databases, History of Databases, Security, Concurrency | 🟢 Active |
+| Databases II | English | Data Warehouse, NoSQL, Big Data | 🟡 In Preperation |
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisneunzig&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+### Skills & Stats
+Here you can find some information about me outside of work!
+
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,go,py,sass,lua)](https://skillicons.dev)
+
+#### IDEs
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
+
+#### Technologies
+[![My Skills](https://skillicons.dev/icons?i=npm,nodejs,maven,spring,react,angular,docker,kubernetes,git,github,regex)](https://skillicons.dev)
+
+#### Home-Lab
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,bash,rabbitmq)](https://skillicons.dev)
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)](https://skillicons.dev)
