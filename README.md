@@ -17,6 +17,13 @@ Welcome to my Github Page!
 - since 2024: Teaching Database Technology @DHBW Mosbach
 - since 2024: Teaching Software Engineering @DHBW Karlsruhe
 
+| Module | Language | Topics | Status |
+|---|---|---|---|
+| **Software Engineering II** | German & English | Software Lifecycle, Requirements Engineering, Software Architectures, APIs, Full-Stack-APIs, Design Patterns, Clean Code, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
+| **Fortgeschrittene Systementwicklung** (Advanced System Development) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot, Software Engineering, Software Lifecycle, Webframeworks, Client-Server Communication, Software Ergonimics, Middleware | 🟢 Active |
+| **Databases I** | English | Relational Algebra, SQL, Database Design, Relational Databases, History of Databases, Security, Concurrency | 🟢 Active |
+| **Databases II** | English | Data Warehouse, Data Wrangling, NoSQL databases, CAP Theorem, Big Data | 🟡 In Preperation |
+
 ## Skills & Stats
 Here you can find some information about me outside of work!
 
@@ -34,21 +41,3 @@ Here you can find some information about me outside of work!
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)](https://skillicons.dev)
-
-## FAQ
-
-#### How can I contact you?
-Please contact me on LinkedIn (Mathis Neunzig). If you have my number or email, feel free to contact me there!
-
-#### I am a student of yours. Where can I find information about the class?
-Every class has a repository for all class-related content and an additional repository für the exam (or project in case there is no written exam). Just look for your course id in my repos.
-
-#### Where can I find more information about your classes?
-See this table:
-
-| Module | Language | Topics | Status |
-|---|---|---|---|
-| **Software Engineering II** | German & English | Software Lifecycle, Requirements Engineering, Software Architectures, APIs, Full-Stack-APIs, Design Patterns, Clean Code, Testing, IT-Management, Deep Dive into specific programming languages (Java, ABAP, etc.) | 🟢 Active |
-| **Fortgeschrittene Systementwicklung** (Advanced System Development) | German | B-Trees, ACID, BASE, Advanced and distributed database systems, in-memory databases, JPA & SpringBoot, Software Engineering, Software Lifecycle, Webframeworks, Client-Server Communication, Software Ergonimics, Middleware | 🟢 Active |
-| **Databases I** | English | Relational Algebra, SQL, Database Design, Relational Databases, History of Databases, Security, Concurrency | 🟢 Active |
-| **Databases II** | English | Data Warehouse, Data Wrangling, NoSQL databases, CAP Theorem, Big Data | 🟡 In Preperation |
