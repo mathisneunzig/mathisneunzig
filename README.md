@@ -14,8 +14,8 @@ Welcome to my Github Page!
 - since 2023: ABAP Developer @SAP ABAP Platform
 - since 2023: ABAP Campus Recruiting & Student Engagement @SAP ABAP Platform
 - since 2024: Teaching Software Engineering & Advanced System Development @DHBW Mannheim
-- since 2024: Teaching Database Technology @DHBW Mosbach
-- since 2024: Teaching Software Engineering @DHBW Karlsruhe
+- since 2024: Teaching Databases I & II @DHBW Mosbach
+- 2024-2025: Teaching Software Engineering @DHBW Karlsruhe
 
 | Module | Language | Topics | Status |
 |---|---|---|---|
