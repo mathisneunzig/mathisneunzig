@@ -1,4 +1,4 @@
-# Mathis Neunzig
+# Mathis Neunzig aka DrBackmischung
 
 Mathis Neunzig - 25 years old - Software Engineer with a <3 for cats
 
